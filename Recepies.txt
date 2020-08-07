@@ -7,5 +7,7 @@ chicken
 pasta
 burger
 kheer
+fries 
+pav
 thank you 
 
